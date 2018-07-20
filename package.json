@@ -1,0 +1,14 @@
+{
+  "name": "test-bowling-kata",
+  "version": "0.0.1",
+  "description": "Test Bowling Kata",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "guest",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
